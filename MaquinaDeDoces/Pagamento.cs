@@ -11,7 +11,7 @@ namespace MaquinaDeDoces
         private int codigo;
         private string descricao;
         private int valorTotal;
-        private int Forma de pagamento;
+        private int Formadepagamento;
 
 
 
