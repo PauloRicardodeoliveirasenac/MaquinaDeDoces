@@ -172,6 +172,7 @@ namespace MaquinaDeDoces
 
         public Boolean AlterarSituacao(int codigo)
         {
+
             Boolean flag = false;
 
             if(ModificarCodigo == codigo)
@@ -204,3 +205,5 @@ namespace MaquinaDeDoces
 
     }//fim da classe
 }//fim do projeto
+
+//Metodo atualizar
